@@ -5,13 +5,13 @@
 
 ## Topics covered in this course:
 
-Data Visualization and Plotting
+**Data Visualization and Plotting**
 
 - Line plots, scatter plots, histograms, 3D plots etc.
 
 - Annotated graphs and visualization of numerical results using matplotlib and seaborn
 
-Root Finding Methods
+**Root Finding Methods**
 
 - Bisection Method
 
@@ -19,9 +19,9 @@ Root Finding Methods
 
 - Secant Method
 
-Taylor Series Approximations (Trig)
+**Taylor Series Approximations (Trig)**
 
-Linear Algebra
+**Linear Algebra**
 
 - Vector and matrix arithmetic
 
@@ -29,7 +29,7 @@ Linear Algebra
 
 - Matrix inversion and determinants
 
-Further Matrix Computations & Eigenvalues
+**Further Matrix Computations & Eigenvalues**
 
 - Matrix operations
 
@@ -38,7 +38,7 @@ Further Matrix Computations & Eigenvalues
 - LU Decomposition
 
 
-Numerical Integration & Differentiation
+**Numerical Integration & Differentiation**
 
 - Trapezoidal Rule
 
@@ -47,13 +47,13 @@ Numerical Integration & Differentiation
 - Finite difference approximations
 
   
-Ordinary Differential Equations (ODEs)
+**Ordinary Differential Equations**
 
 - Euler's Method
 
 - Runge-Kutta Methods
 
-Random Numbers 
+**Random Numbers** 
 
 - Generating pseudo-random numbers
 
