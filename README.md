@@ -5,46 +5,61 @@
 
 ## Topics covered in this course:
 
-- Ordinary Differential Equations (ODEs)
+Data Visualization and Plotting
 
--- Euler's Method
+-Line plots, scatter plots, histograms, 3D plots etc.
 
--- Runge-Kutta Methods
+- Annotated graphs and visualization of numerical results using matplotlib and seaborn
 
 Root Finding Methods
 
-Bisection Method
+- Bisection Method
 
-Newton-Raphson Method
+- Newton-Raphson Method
 
-Secant Method
-
-Numerical Integration & Differentiation
-
-Trapezoidal Rule
-
-Simpson's Rule
-
-Finite difference approximations
+- Secant Method
 
 Taylor Series Approximations
 
-Function approximation using Taylor polynomials
+- Function approximation using Taylor polynomials
 
-Applications to trigonometric functions
+Linear Algebra
 
-Matrix Computations & Eigenvalues
+- Vector and matrix arithmetic
 
-Matrix operations
+- Solving linear systems
 
-Gaussian elimination
+- Matrix inversion and determinants
 
-LU Decomposition
+Further Matrix Computations & Eigenvalues
 
-Power Iteration and Eigenvector analysis
+- Matrix operations
 
-Data Visualization and Plotting
+- Gaussian elimination
 
-Line plots, scatter plots
+- LU Decomposition
 
-Annotated graphs and visualization of numerical results using matplotlib
+
+Numerical Integration & Differentiation
+
+- Trapezoidal Rule
+
+- Simpson's Rule
+
+- Finite difference approximations
+
+  
+Ordinary Differential Equations (ODEs)
+
+- Euler's Method
+
+- Runge-Kutta Methods
+
+Random Numbers 
+
+- Generating pseudo-random numbers
+
+- Monte Carlo integration
+
+- Statistical sampling and uncertainty estimation
+
