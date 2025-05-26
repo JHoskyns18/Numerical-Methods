@@ -1,13 +1,13 @@
 # Numerical-Methods
 ## Masters in Astrophysics and Space Science - Rome Semester 1
 
-'Numerical Methods'  is a module in the first term of the MSc in Astrophysics and Space Science (MASS) program. This course covers a practical introduction to computational techniques in Python, essential for solving complex problems encountered in astrophysics. The idea of the lectures in this module is to ensure all students have a suffient proficiency of Python, to serve for the rest of the masters program.
+'Numerical Methods'  is a module in the first term of the MSc in Astrophysics and Space Science (MASS) program. This course is an introduction to computational techniques performed in Python. These skills are applyed in the context of complex astrophysical problems. The idea of the lectures in this module is to ensure all students have a suffient proficiency of Python, to serve us for the rest of the two-year program.
 
 ## Topics covered in this course:
 
 Data Visualization and Plotting
 
--Line plots, scatter plots, histograms, 3D plots etc.
+- Line plots, scatter plots, histograms, 3D plots etc.
 
 - Annotated graphs and visualization of numerical results using matplotlib and seaborn
 
