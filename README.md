@@ -19,9 +19,7 @@ Root Finding Methods
 
 - Secant Method
 
-Taylor Series Approximations
-
-- Function approximation using Taylor polynomials
+Taylor Series Approximations (Trig)
 
 Linear Algebra
 
